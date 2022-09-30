@@ -151,7 +151,12 @@
     "SuperPower": "Ability to shrink to sub-microscopic size and enter the subatomic universes."
     },
     
-
+  {
+    "Character Name": "spiderman",
+    "Reel Name": "Tony Stark",
+    "Actor Name": "Robert Downey Jr",
+    "SuperPower": "Powered Armor"
+    },
     
 
     
