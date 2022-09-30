@@ -1,14 +1,14 @@
 [
     {
     "Character Name": "Iron Man",
-    "Reel Name": "Sony Stark",
+    "Reel Name": "Tony Stark",
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
 
 
        {
-    "Character Name": "Doctor Vyanki",
+    "Character Name": "Doctor Strange",
     "Reel Name": "Doctor Stephen Vincent Strange",
     "Actor Name": "Benedict Cumberbatch",
     "SuperPower": "Can travel to different Universe"
@@ -18,7 +18,7 @@
    
    
     {
-    "character name": "Shambhu",
+    "character name": "thor",
     "reel name":  "thor odinson",
     "actor name":  "chris hemsworth",
     "superpower":  "god of thunder",
@@ -26,7 +26,7 @@
    
 
     {
-    "Character Name": "Captain Tolya",
+    "Character Name": "Captain Marvel",
     "Reel Name": "Carol Danvers",
     "Actor Name": "Brie Larson",
     "SuperPower": "enhanced strength, stamina, agility, and durability, as well as flight, and almost total immunity to toxins and poisons."
@@ -49,7 +49,7 @@
 
         {
     "Character Name": "Black panther",
-    "Reel Name": "Gokul Kumar",
+    "Reel Name": "Tony Stark",
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
@@ -81,7 +81,7 @@
     
     {
     "Character Name": "Thor",
-    "Reel Name": "Chor",
+    "Reel Name": "Thor",
     "Actor Name": "Chris Hemsworth",
     "SuperPower": "God Of thunder"
     },
@@ -170,6 +170,14 @@
     "Reel Name": "Blackpanter",
     "Actor Name": "Chadwick Bosmen",
     "SuperPower": "Black Panter"
+    },
+    
+    
+     {
+    "Character Name": "Captain Carter
+    "Reel Name": "Peggy Carter",
+    "Actor Name": "Heyley Atwell",
+    "SuperPower": "ncredibly heightened reflexes, uses her shield in battle"
     },
 
     
