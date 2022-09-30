@@ -179,11 +179,20 @@
     "Actor Name": "Heyley Atwell",
     "SuperPower": "ncredibly heightened reflexes, uses her shield in battle"
     },
+
+    
+     {
+    "Character Name": "Thor",
+    "Reel Name": "Thor Odinson",
+    "Actor Name": "Chris Hemsworth",
+    "SuperPower": "God Of thunder"
+
    {
     "Character Name": "Loki
     "Reel Name": "Thomas Williams Hiddleston",
     "Actor Name": "Tom hiddleston",
     "SuperPower": "Durability ,hypnosis, "
+
     },
     
 ]
