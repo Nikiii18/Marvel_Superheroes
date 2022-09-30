@@ -80,6 +80,13 @@
     "SuperPower": "God Of thunder"
     },
     
+    {
+    "Character Name": "Doctor Strange",
+    "Reel Name": "Doctor Stephen Vincent Strange",
+    "Actor Name": "Benedict Cumberbatch",
+    "SuperPower": "Can travel to different Universe"
+    },
+    
     
    
      {
@@ -113,6 +120,7 @@
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
     "SuperPower": "Mystic arts"
     },
+    
     
 
     {
