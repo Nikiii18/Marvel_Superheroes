@@ -196,7 +196,13 @@
     },
     
 ]
+ {
+    "Character Name": "groot
+    "Reel Name": "Thomas Williams Hiddleston",
+    "Actor Name": "Tom hiddleston",
+    "SuperPower": "Durability ,hypnosis, "
 
+    },
 
 
 
