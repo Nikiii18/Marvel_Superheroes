@@ -164,6 +164,13 @@
     "SuperPower": "Powered Armor"
     },
     
+    
+     {
+    "Character Name": "Blackpanter",
+    "Reel Name": "Blackpanter",
+    "Actor Name": "Chadwick Bosmen",
+    "SuperPower": "Black Panter"
+    },
 
     
 ]
