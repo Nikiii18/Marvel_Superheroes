@@ -186,6 +186,7 @@
     "Reel Name": "Thor Odinson",
     "Actor Name": "Chris Hemsworth",
     "SuperPower": "God Of thunder"
+     },
 
    {
     "Character Name": "Loki
