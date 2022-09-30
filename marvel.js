@@ -32,6 +32,12 @@
     "SuperPower": "enhanced strength, stamina, agility, and durability, as well as flight, and almost total immunity to toxins and poisons."
     },
   
+    {
+    "Character Name": "Agent Romanoff",
+    "Reel Name": " Natasha",
+    "Actor Name": "Scarllet johanson",
+    "SuperPower": "Matial Art Skills"
+    },
 
     {
     "Character Name": "bruce banner",
