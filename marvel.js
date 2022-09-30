@@ -136,6 +136,15 @@
     "Actor Name": "Scott lang",
     "SuperPower": "Ability to shrink to sub-microscopic size and enter the subatomic universes."
     },
+     {
+    "Character Name": "Wasp",
+    "Reel Name": " Taika Waititi",
+    "Actor Name": "Scott lang",
+    "SuperPower": "Ability to shrink to sub-microscopic size and enter the subatomic universes."
+    },
+    
+
+    
 
     
 ]
