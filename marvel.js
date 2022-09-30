@@ -1,14 +1,14 @@
 [
     {
     "Character Name": "Iron Man",
-    "Reel Name": "Tony Stark",
+    "Reel Name": "Sony Stark",
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
 
 
        {
-    "Character Name": "Doctor Strange",
+    "Character Name": "Doctor Vyanki",
     "Reel Name": "Doctor Stephen Vincent Strange",
     "Actor Name": "Benedict Cumberbatch",
     "SuperPower": "Can travel to different Universe"
@@ -18,7 +18,7 @@
    
    
     {
-    "character name": "thor",
+    "character name": "Shambhu",
     "reel name":  "thor odinson",
     "actor name":  "chris hemsworth",
     "superpower":  "god of thunder",
@@ -26,7 +26,7 @@
    
 
     {
-    "Character Name": "Captain Marvel",
+    "Character Name": "Captain Tolya",
     "Reel Name": "Carol Danvers",
     "Actor Name": "Brie Larson",
     "SuperPower": "enhanced strength, stamina, agility, and durability, as well as flight, and almost total immunity to toxins and poisons."
@@ -49,7 +49,7 @@
 
         {
     "Character Name": "Black panther",
-    "Reel Name": "Tony Stark",
+    "Reel Name": "Gokul Kumar",
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
@@ -81,7 +81,7 @@
     
     {
     "Character Name": "Thor",
-    "Reel Name": "Thor",
+    "Reel Name": "Chor",
     "Actor Name": "Chris Hemsworth",
     "SuperPower": "God Of thunder"
     },
