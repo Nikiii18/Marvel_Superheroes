@@ -1,0 +1,23 @@
+{
+  "name": "marvel_superheroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardonot/Marvel_Superheroes.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardonot/Marvel_Superheroes.js/issues"
+  },
+  "homepage": "https://github.com/eduardonot/Marvel_Superheroes.js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
