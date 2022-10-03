@@ -14,7 +14,12 @@
     "SuperPower": "Can travel to different Universe"
     },
     
-
+    {
+      "Character Name": "Blade",
+      "Reel Name": "Eric Cross Brooks",
+      "Actor Name": "Wesley Snipes",
+      "SuperPower": "Immune to the bites of supernatural vampires, superhuman strength, stamina, speed, agility, heightened senses and a rapid healing factor."
+    },
    
    
     {
