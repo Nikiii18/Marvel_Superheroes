@@ -10,8 +10,14 @@
     "Reel Name": "Doctor Stephen Vincent Strange",
     "Actor Name": "Benedict Cumberbatch",
     "SuperPower": "Can travel to different Universe"
-  },
-  {
+    },
+    {
+      "Character Name": "Blade",
+      "Reel Name": "Eric Cross Brooks",
+      "Actor Name": "Wesley Snipes",
+      "SuperPower": "Immune to the bites of supernatural vampires, superhuman strength, stamina, speed, agility, heightened senses and a rapid healing factor."
+    },      
+    {
     "character name": "thor",
     "reel name": "thor odinson",
     "actor name": "chris hemsworth",
