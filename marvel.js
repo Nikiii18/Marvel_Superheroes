@@ -55,12 +55,6 @@
   },
   {
     "Character Name": "Thor",
-    "Reel Name": "thor odinson",
-    "Actor Name": "chris hemsworth",
-    "SuperPower": "electricity manipulation"
-  },
-  {
-    "Character Name": "Thor",
     "Reel Name": "Thor",
     "Actor Name": "Chris Hemsworth",
     "SuperPower": "God Of thunder"
@@ -84,12 +78,6 @@
     "SuperPower": "egotistical warrior"
   },
   {
-    "Character Name": "spider man",
-    "Reel Name": "Tony Stark",
-    "Actor Name": "andrew garfieldr",
-    "SuperPower": "incredible speed"
-  },
-  {
     "Character Name": "Dr Strange",
     "Reel Name": "Dr Steven Strange",
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
@@ -105,7 +93,7 @@
     "Character Name": "She Hulk",
     "Reel Name": "Scarlet",
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
-    "SuperPower": "Mystic arts"
+    "SuperPower": "Superhuman Strength"
   },
   {
     "Character Name": "Ant-man",
@@ -120,7 +108,7 @@
     "SuperPower": "Ability to shrink to sub-microscopic size and enter the subatomic universes."
   },
   {
-    "Character Name": "spiderman",
+    "Character Name": "Spiderman",
     "Reel Name": "Tony Stark",
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
@@ -150,7 +138,7 @@
     "SuperPower": "Durability ,hypnosis, "
   },
   {
-    "Character Name": "groot",
+    "Character Name": "Groot",
     "Reel Name": "Thomas Williams Hiddleston",
     "Actor Name": "Tom hiddleston",
     "SuperPower": "Durability ,hypnosis, "
@@ -160,5 +148,11 @@
     "Reel Name": "Wade Winston Wilson",
     "Actor Name": "Ryan Reynolds",
     "SuperPower": "Regeneration/Healing Factor "
+  },
+  {
+    "Character Name": "Howard the Duck",
+    "Reel Name": "Howard the Duck",
+    "Actor Name": "Unknown",
+    "SuperPower": "Alien talking duck"
   },
 ]
