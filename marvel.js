@@ -149,4 +149,10 @@
     "Actor Name": "Tom hiddleston",
     "SuperPower": "Durability ,hypnosis, "
   },
+  {
+    "Character Name": "Deadpool",
+    "Reel Name": "Wade Winston Wilson",
+    "Actor Name": "Ryan Reynolds",
+    "SuperPower": "Regeneration/Healing Factor "
+  },
 ]
