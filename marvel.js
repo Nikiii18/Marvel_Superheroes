@@ -161,4 +161,10 @@
     "Actor Name": "Ryan Reynolds",
     "SuperPower": "Regeneration/Healing Factor "
   },
+  {
+    "Character Name": "Quicksilver",
+    "Reel Name": "Pietro Maximoff",
+    "Actor Name": "Evan Thomas Peters/Aaron Perry Taylor-Johnson",
+    "SuperPower": "Superhuman speed"
+  },
 ]
