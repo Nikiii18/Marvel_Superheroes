@@ -167,4 +167,10 @@
     "Actor Name": "Evan Thomas Peters/Aaron Perry Taylor-Johnson",
     "SuperPower": "Superhuman speed"
   },
+  {
+    "Character Name": "Star-Lord",
+    "Reel Name": "Peter Quill",
+    "Actor Name": "Christopher Michael Pratt ",
+    "SuperPower": "Strength, flight via jet boots, master problem-solver, cybernetic enhancements, space travel, Element Gun projects air, earth, fire, water."
+  },
 ]
