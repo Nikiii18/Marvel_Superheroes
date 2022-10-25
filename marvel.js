@@ -155,4 +155,15 @@
     "Actor Name": "Unknown",
     "SuperPower": "Alien talking duck"
   },
-]
+    "Character Name": "Quicksilver",
+    "Reel Name": "Pietro Maximoff",
+    "Actor Name": "Evan Thomas Peters/Aaron Perry Taylor-Johnson",
+    "SuperPower": "Superhuman speed"
+  },
+  {
+    "Character Name": "hulk",
+    "Reel Name": "Bruce Banner",
+    "Actor Name": "Mark ruffalo ",
+    "SuperPower": "Durability"
+  },
+] 
